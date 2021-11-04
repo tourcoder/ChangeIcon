@@ -2,8 +2,8 @@
 //  ViewController.m
 //  ChangeIcon
 //
-//  Created by TOURCODER on 2019/2/20.
-//  Copyright © 2019 TOURCODER. All rights reserved.
+//  Created by Bin Hua on 2019/2/20.
+//  Copyright © 2019 TOURCODER.COM All rights reserved.
 //
 
 #import "ViewController.h"
